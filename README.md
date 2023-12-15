@@ -14,11 +14,14 @@ Currently Focused: Python
 Familiar With: C#, C++, Java, Arduino, JavaScript, HTML/CSS
 
 📈 GitHub Stats
+
 ![Westin's GitHub stats](https://github-readme-stats.vercel.app/api?username=westinperry&show_icons=true&theme=light)
 
 📊 Top Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=westinperry&layout=compact&theme=light)
 
 📩 Connect with Me
 LinkedIn - https://www.linkedin.com/in/westin-perry-2a9750285/
+
 Email    - westinperry01@gmail.com
